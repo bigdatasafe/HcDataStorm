@@ -1,15 +1,18 @@
-.. HcDataStorm documentation master file, created by
-   sphinx-quickstart on Thu Jul  4 17:08:24 2019.
+.. docs documentation master file, created by
+   sphinx-quickstart on Fri Oct 19 13:45:31 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to HcDataStorm's documentation!
-=======================================
+HcDataStorm 文档
+==========================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
+   :caption: 目录:
+   
+   introduction
+   install
+   
 
 
 Indices and tables
